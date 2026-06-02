@@ -1,0 +1,59 @@
+{
+  "siteId": "home-pancake-tutorial",
+  "generatedAt": "2026-06-02T15:35:10.239118",
+  "categories": [
+    "beginner-home-pancake-tutorial",
+    "advanced-home-pancake-tutorial",
+    "tips-home-pancake-tutorial",
+    "history-home-pancake-tutorial",
+    "trending-home-pancake-tutorial",
+    "tutorials-home-pancake-tutorial"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-home-pancake-tutorial",
+      "category_name": "Beginner Home Pancake Tutorial"
+    },
+    {
+      "category_slug": "advanced-home-pancake-tutorial",
+      "category_name": "Advanced Home Pancake Tutorial"
+    },
+    {
+      "category_slug": "tips-home-pancake-tutorial",
+      "category_name": "Home Pancake Tutorial Tips"
+    },
+    {
+      "category_slug": "history-home-pancake-tutorial",
+      "category_name": "Home Pancake Tutorial History"
+    },
+    {
+      "category_slug": "trending-home-pancake-tutorial",
+      "category_name": "Trending Home Pancake Tutorial"
+    },
+    {
+      "category_slug": "tutorials-home-pancake-tutorial",
+      "category_name": "Home Pancake Tutorial Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "home-pancake-tutorial",
+    "color_scheme": {
+      "name": "Warm Orange",
+      "primary": "#c2410c",
+      "secondary": "#f97316",
+      "accent": "#fdba74",
+      "background": "#fff7ed",
+      "text": "#7c2d12",
+      "light": "#ffedd5"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "sidebar",
+    "site_title": "Home Pancake Tutorial Central",
+    "articles_per_row": 4
+  }
+}
